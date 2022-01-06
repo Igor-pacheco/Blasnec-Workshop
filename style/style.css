@@ -1,0 +1,1491 @@
+*{padding: 0;
+margin: 0;
+text-decoration: none;
+list-style: none;
+color: #bfbfbf;
+font-family: 'Open Sans', sans-serif;
+overflow-X: hidden;
+}
+
+body{background-color: rgb(0, 0, 0);}
+/* 
+Inicio da primeira pagina */
+
+#inicio{background-image:url(./images/TatuagensEditadas/InkedInkedGaviaoTatto2_LI.jpg);
+    background-position-x:100%;
+    background-repeat: no-repeat;
+
+    }
+
+#Blasnec{height: 250px;
+margin-left: 11%;
+margin-top: 3%;
+display: inline-block;
+border-radius: 1000px;}
+
+#menu{font-size: 25px;
+float: right;
+margin-top: 6%;
+margin-right: 11%;
+background-color: #0808088a;
+padding-right: 2%;
+}
+
+.menuItems{display: inline;
+margin-left: 20px;
+cursor: pointer;}
+
+.menuItems:hover{color: #ffffff;
+    text-decoration-line: underline ;}
+
+#jornadaTitulo{
+    margin-left:11% ;
+    margin-top: 3%;
+font-size: 30px;
+}
+
+/* 
+Inicio da primeira pagina */
+
+    /* icones */
+.icons{height: 60px;}
+
+#Vitalidade{margin-left:11% ;
+max-width: 15%;
+display: inline-block;
+text-align: left;
+position: relative;}
+
+#tempo{
+max-width: 15%;    
+display: inline-block;
+text-align: left;
+position: relative;
+bottom: 20px;}
+
+#mulher{display: inline-block;
+text-align: left;
+max-width: 15%;
+position: relative;
+bottom: 20px;}
+
+
+/* <!-- repetição --> */
+
+#Vitalidade1{margin-left:11% ;
+    max-width: 15%;
+    display: inline-block;
+    text-align: left;
+    position: relative;
+margin-top: 2%;}
+
+#mulher1{display: inline-block;
+    text-align: left;
+    max-width: 15%;
+    position: relative;
+    bottom: 20px;}
+
+
+/* icones */
+
+#botaoVideo{background-color: #212121;
+display:inline-block;
+border-radius: 20px;
+padding: 16px;
+font-size: 25px;
+margin-top: 1%;
+cursor: pointer;
+position: relative;
+left: 26%;}
+
+#botaoVideo:hover{background-color: #bfbfbf;
+color: #212121;}
+
+/* Final da primeira pagina */
+/* 
+primeira sessao de textos */
+#primeiraSessao{position: relative;
+}
+
+#box1{max-width: 40%;
+    display: inline-block;
+    margin-left: 11%}
+
+#box2{max-width: 40%;
+    display: inline-block;
+    margin-left: 25px;
+    position: relative;
+    top: 175px;
+
+}
+
+#Box3{margin-left: 11%;
+max-width: 40%;
+}
+
+#tituloTexto1{font-size: 40px;}
+
+#texto1{font-size: 18px;}
+
+#tituloTexto2 {font-size: 40px}
+
+#texto2{font-size:18px;}
+
+#tituloTexto3{font-size: 40px}
+
+#texto3{font-size:18px;}
+
+/* final da primeira sessao de textos */
+
+/* album de tatuagens */
+
+#album{margin-top: 50px;
+margin-left: 11%;}
+
+.album{width: 230px;
+height: 230px;
+border: 1px #212121 solid
+}
+
+/* fim do album */
+
+/* vantagens */
+
+.iconsTemp{height: 40px;
+}
+
+
+
+#vantagens{margin-left: 15%;
+margin-right: 9%;
+margin-top: 1%;
+}
+
+#vantagem1{
+    max-width: 14%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+   
+}
+
+ #vantagem2{
+        max-width: 14%;
+        display: inline-block;
+        text-align: center;
+    font-size: 13px;
+    position: relative;
+    margin-left: 10px;}
+
+ #vantagem3{
+            max-width: 14%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            bottom: 15px;
+            margin-left: 10px;}
+    
+ #vantagem4{max-width: 14%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 30px;
+    margin-left: 10px;}
+         
+#vantagem5{max-width: 14%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 15px;
+    margin-left: 10px;
+
+}
+
+    #vantagem6{max-width: 14%;
+        display: inline-block;
+        text-align: center;
+        font-size: 13px;
+        margin-left: 20px;
+        position: relative;
+        bottom: 17px;
+    } 
+
+  
+
+
+      
+/* fim vantagem */
+
+/* PLATAFORMAS */
+
+#tituloPlataforma{text-align: center;
+    font-size: 50px;
+}
+
+#plataformas{margin-top: 5%;}
+
+#boxPlataformas{max-width: 100%;
+background-color: rgb(0, 0, 0);
+
+}
+
+
+/* PLATAFORMAS */
+
+
+#hotmart{max-width: 50%;
+background-color: #080808;
+padding-top:70px;
+padding-bottom: 70px;
+display:inline-block;
+}
+
+#heroSpark{max-width: 50%;
+background-color: #080808;
+padding-top:70px;
+padding-bottom: 70px;
+display:inline-block;
+}
+
+#monetizze{max-width: 50%;
+    background-color: #080808;
+    padding-top:120px;
+    padding-bottom: 70px;
+    display:inline-block;
+}
+
+#iconMonetizze{height:50px;
+    margin-left: 5%;
+margin-bottom: 50px;}
+
+
+.iconVantagem{height: 150px;
+    width: 150px;
+margin-left: 5%;
+}
+
+.nomePlataforma{margin-left: 10%;
+font-size: 50px;
+font-family: 'Bebas Neue', cursive;
+color: #ffffff;
+}
+
+h2{margin-left: 10%;
+font-size: 30px;
+color: #ffffff;
+font-family: 'Bebas Neue', cursive;
+}
+
+.precosPlataforma{color: #bfbfbf;}
+
+.parcelasPlataformas{color: #bfbfbf;
+display: inline-block;
+padding: 2px;
+border-radius: 5px;
+margin-top: 10px;
+}
+
+.listPlataformas{ margin-top: 10px;
+margin-left:10%;
+font-size: 20px;
+font-family: 'Bebas Neue', cursive;
+}
+
+.botaoComprar{background-color: #ff0000;
+    display:inline-block;
+    border-radius: 20px;
+    padding: 16px;
+    font-size: 50px;
+    cursor: pointer;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(255, 255, 255);
+   }
+
+.botaoComprar:hover{font-size: 100px;}
+
+   .saibaMais{ display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.saibaMais:hover{  text-decoration-line: underline ;}
+
+/* FIM PLATAFORMAS */
+
+/* modulos */
+#modulos{margin-left: 11%;
+margin-right: 11%;}
+
+#tituloModulos{font-size: 35px;
+margin-top: 2%;}
+
+.nomeModulo{margin-top: 7%;
+text-transform: uppercase;
+margin-bottom: 1%;}
+
+.modulos{max-width: 25%;
+display: inline-block;
+margin-left: 5%;}
+
+/* modulos */
+
+/* Linha */
+.linhaLocation{position: relative;
+left: 37%;}
+
+#linha{width: 25%;}
+/* Linha */
+
+/* segundasessaotexto */
+
+#segundaSesssaodeTexto{position: relative;
+overflow: hidden;
+background-image: url(./images/segundaSessaoTextos/blasnec_tattoo.png);
+background-repeat: no-repeat;
+background-position-y: -550px;
+background-size: 55%;
+}
+
+.imgsSegundaSessaoResponsivo{width: 200px;
+display: none;}
+
+.conteudoSegundaSessaoTextos{ max-width: 40%;
+margin-right: 11%;
+float: right;
+}
+
+
+.titulosSegundaSessaoTextos{ margin-bottom: 1%;
+margin-top: 4%;}
+
+.textosSegundaSessaoTextos{text-align: left;
+}
+
+/* segundasessaotexto */
+
+/* segundasessaotexto imagens*/ 
+
+.imagensEsquerda{position: absolute;
+width: 35%;
+margin-left: 10%;
+bottom: 40%;
+
+}
+
+#universo{bottom: 0%;}
+
+
+
+
+/* imagens */
+
+/* PROFESSOR */
+
+#professor{margin-top: 15%;
+    background-image: url(./images/Blasnec/BlasnecPretoeBrancoEE.png);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+#conjuntoProfessor{color: rgb(255, 255, 255);
+    background-color: #000000bd;
+    margin-left: 11%;
+    max-width: 50%;
+    padding: 10px;
+    padding-top: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+
+    }
+
+#tituloProfessor{font-size: 50px;
+margin-bottom: 11%;
+text-align: center;}
+
+#textoSobreProfessor{font-size: 20px;
+}
+
+#fraseProfessor{font-size: 40px;
+text-align: center;
+font-style: italic;}
+
+/* PROFESSOR */
+
+
+/*FOTTER */
+
+footer{margin-left: 11%;
+margin-top: 3%;
+padding-bottom: 2%;
+}
+
+#logoBlasnec{height: 150px;
+margin-left: 5%;}
+
+.listaFooter{display: inline-block;
+margin-bottom: 6%;
+margin-left: 5%;
+font-size: 15px;
+cursor: pointer;}
+
+li:hover{color: white;
+text-decoration-line: underline;}
+
+.segundoItemListaFooter{margin-top: 20px}
+
+#email{font-size: 13px;}
+
+#email:hover{color: white;
+    text-decoration-line: underline;}
+
+.redes{height: 30px;}
+
+.conteudoRede:hover{color: white;
+    text-decoration-line: underline;}
+
+#whatssApp{margin-left: 20px;}
+
+#freepik{position: relative;
+left: 1000px;
+font-size:9px;
+bottom: 20px;}
+
+/*FOTTER */
+
+/* RESPONSIVIDADE*/
+
+@media screen and (max-width:700px)
+
+{ #inicio{background-image:url(./images/TatuagensEditadas/InkedInkedGaviaoTatto2_LI.jpg);
+    background-position-x:100%;
+    background-repeat: no-repeat;
+
+    }
+
+#Blasnec{height: 200px;
+margin-left: 5%;}
+
+#menu{font-size: 20px;
+float: none;
+margin-top: 6%;
+margin-right: 0;
+margin-left: 5%;
+background-color: #080808d2;
+display: inline-block;
+padding-right: 5%;
+}
+
+.menuItems{display: inline;
+margin-left: 30px;
+cursor: pointer;}
+
+.menuItems:hover{color: #ffffff;
+    text-decoration-line: underline ;}
+
+#jornadaTitulo{
+    margin-left:15% ;
+    margin-right: 5%;
+    margin-top: 70%;
+font-size: 40px;
+}
+
+/* icones */
+.icons{height: 60px;}
+
+#Vitalidade{margin-left:10% ;
+max-width: 25%;
+display: inline-block;
+text-align: left;
+position: relative;
+}
+
+#tempo{
+max-width: 25%;    
+display: inline-block;
+text-align: left;
+position: relative;
+bottom: 20px;
+margin-left: 5%;}
+
+#mulher{display: inline-block;
+text-align: left;
+max-width: 25%;
+position: relative;
+bottom: 20px;
+margin-left: 5%;}
+
+/* <!-- repetição --> */
+
+#Vitalidade1{margin-left:10% ;
+    max-width: 25%;
+    display: inline-block;
+    text-align: left;
+    position: relative;
+margin-top: 2%;}
+
+#mulher1{display: inline-block;
+    text-align: left;
+    max-width: 25%;
+    position: relative;
+    bottom: 20px;
+    margin-left: 5%;}
+
+    #botaoVideo{background-color: #212121;
+        display:inline-block;
+        border-radius: 20px;
+        padding: 16px;
+        font-size: 25px;
+        margin-top: 10%;
+        cursor: pointer;
+        position: relative;
+        left: 35%;}
+
+       /* primeira sessao de textos */
+#primeiraSessao{position: relative;
+}
+
+#box1{max-width: 40%;
+    display: inline-block;
+    margin-left: 5%;
+margin-bottom: 31%;}
+
+#box2{max-width: 40%;
+    display: inline-block;
+    margin-left: 25px;
+    position: relative;
+    top: 175px;
+
+}
+
+#Box3{margin-left: 5%;
+    max-width: 40%;
+    margin-bottom: 50%;
+    margin-top:-30%;}
+
+    /* album de tatuagens */
+
+#album{margin-top: 0px;
+    margin-left: 5%;}
+    
+    .album{width: 47%;
+    height: 47%;
+    border: 1px #212121 solid
+    }
+
+#linhaAlbum{display: none;}
+
+.iconsTemp{height: 40px;
+}
+
+
+
+#vantagens{margin-left: 10%;
+margin-right: 10%;
+margin-top: 1%;
+}
+
+#vantagem1{
+    max-width: 30%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    
+   
+}
+
+ #vantagem2{
+        max-width: 30%;
+        display: inline-block;
+        text-align: center;
+    font-size: 13px;
+    position: relative;
+    margin-left: 5px;
+  
+}
+
+ #vantagem3{
+            max-width: 30%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            bottom: 15px;
+            margin-left: 5px;
+          
+        }
+    
+ #vantagem4{max-width: 30%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+         
+#vantagem5{max-width: 30%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 15px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+    #vantagem6{max-width: 30%;
+        display: inline-block;
+        text-align: center;
+        font-size: 13px;
+        margin-left: 5px;
+        position: relative;
+        bottom: 17px;
+        margin-top: 20px;
+    } 
+
+    /* PLATAFORMAS */
+    #boxPlataformas{max-width: 100%;
+        background-color: rgb(0, 0, 0);
+    text-align: center;}
+        
+    #iconMonetizze{height:50px;
+        margin-left: 11%;
+    margin-bottom: 50px;}
+    
+    
+    .iconVantagem{height: 150px;
+        width: 150px;
+    margin-left: 11%;
+    }
+
+#hotmart{max-width: 100%;
+    background-color: #080808;
+    padding-top:70px;
+    padding-bottom: 70px;
+    display:inline-block;
+    padding-right: 80px;
+    }
+    
+    #heroSpark{max-width: 100%;
+    background-color: #080808;
+    padding-top:70px;
+    padding-bottom: 70px;
+    display:inline-block;
+    padding-right: 80px;
+    }
+    
+    #monetizze{max-width: 100%;
+        background-color: #080808;
+        padding-top:120px;
+        padding-bottom: 70px;
+        display:inline-block;
+        padding-right: 80px;
+    }
+
+    #modulos{margin-top: 10%;
+        margin-left: 5%;
+        margin-right: 5%;}
+        
+        #tituloModulos{font-size: 35px;
+        margin-top: 2%;}
+        
+        .nomeModulo{margin-top: 7%;
+        text-transform: uppercase;
+        margin-bottom: 1%;}
+        
+        .modulos{max-width: 27%;
+        display: inline-block;
+        margin-left: 5%;}
+
+        /* segundasessaotexto */
+
+#segundaSesssaodeTexto{position: relative;
+    overflow: hidden;
+    background-image: url(./images/segundaSessaoTextos/blasnec_tattoo.png);
+    background-repeat: no-repeat;
+    background-position-y:-500px;
+    background-size: 100%;
+    }
+    
+    .imgsSegundaSessaoResponsivo{width: 200px;
+    display: none;}
+    
+    .conteudoSegundaSessaoTextos{ max-width: 40%;
+    margin-right: 11%;
+    float: right;
+    }
+    
+    
+    .titulosSegundaSessaoTextos{ margin-bottom: 1%;
+    margin-top: 4%;}
+    
+    .textosSegundaSessaoTextos{text-align: left;
+    }
+    
+    /* segundasessaotexto */
+    
+    /* segundasessaotexto imagens*/ 
+    
+    .imagensEsquerda{position: absolute;
+    width: 45%;
+    margin-left: 5%;
+    bottom: 60%;
+    
+    }
+    
+    #universo{bottom: 30%;}
+
+    /* professor */
+
+    #professor{margin-top: 15%;
+        background-image: url(./images/Blasnec/BlasnecPretoeBrancoEE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    }
+    
+    #conjuntoProfessor{color: rgb(255, 255, 255);
+        background-color: #000000bd;
+        margin-left: 2%;
+        margin-right: 2%;
+        max-width: 100%;
+        padding: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+   
+        }
+    
+    #tituloProfessor{font-size: 30px;
+    margin-bottom: 11%;
+    text-align: center;}
+    
+    #textoSobreProfessor{font-size: 20px;
+    }
+    
+    #fraseProfessor{font-size: 30px;
+    text-align: center;
+    font-style: italic;}
+
+
+.brProfessor{display: none;}
+    
+#freepik{position: relative;
+    left: 0;
+    font-size:9px;
+    bottom: 0;
+margin-top: 20px;}
+    
+
+}
+
+
+
+
+@media screen and (max-width:500px)
+
+{
+
+    #inicio{background-image:url(./images/Tatuagens/raposaPretoeBranco.jpg);
+        background-repeat: no-repeat;
+    background-position:center;
+    background-position-y: -100px;
+     background-position-x:1px ;   }
+    
+
+
+#Blasnec{display: none;}
+
+#menu{font-size: 25px;
+    float: none;
+    margin-top: 6%;
+    margin-right: 11%;
+    }
+
+ .menuItems{display: block;
+        margin-left: 20px;
+        cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+padding: 10px;}
+
+#jornadaTitulo{ text-align: center;
+    margin-left:2% ;
+    margin-top: 20%;
+font-size: 20px;} 
+
+/* 
+Inicio da primeira pagina */
+
+/* icones */
+
+.icons{height: 40px;}
+
+#Vitalidade{margin-left:2% ;
+    margin-right:2%;
+max-width: 100%;
+display:block;
+text-align: center;
+position: none;}
+
+#tempo{
+    margin-left: 2%;
+    margin-right: 2%;
+max-width: 100%;    
+display:block;
+text-align: center;
+position: none;
+bottom: none;
+margin-top: 40px;}
+
+#mulher{display:block;
+text-align: center;
+max-width: 100%;
+position: none;
+bottom: none;
+margin-top: 20px;}
+
+/* <!-- repetição --> */
+
+#Vitalidade1{margin-left: 2%;
+    margin-right: 2%;
+    max-width: 100%;
+    display: block;
+    text-align: center;
+    position: none;
+margin-top:0;
+margin-top: 40px;
+position: relative;
+bottom: 65px;}
+
+#mulher1{display:block;
+    text-align: center;
+    max-width: 100%;
+    position: relative;
+    bottom: 50px;
+margin-left: 2%;
+margin-right: 2%;}
+
+/* icones */
+
+/* botao video */
+
+#botaoVideo{background-color: #212121;
+    display:block;
+    border-radius: 20px;
+    padding: 16px;
+    font-size: 25px;
+    margin-top: 1%;
+    cursor: pointer;
+    position: relative;
+    text-align: center;
+    left: 0;}
+
+    /* botao video */
+/* 
+    primeira sessao */
+
+    #primeiraSessao{position: relative;
+    margin-top: 40px;}
+    
+    #box1{max-width: 100%;
+        display: block;
+        margin-left: 2%;
+    margin-right: 2%;}
+
+    #box2{max-width: 100%;
+        display: block;
+        margin-left:2%;
+        margin: right 2%;
+        position: relative;
+        top:0;
+        margin-top: 20px;
+    
+    }
+    
+    #Box3{margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 20px;
+    max-width: 100%;
+    }
+    
+/* primeira sessao */
+
+/* album */
+
+#linhaAlbum{display: none;}
+
+    #album{margin-top: 50px;
+       margin-left: 0;}
+    
+        .album{width: 48% ;
+        height: 47%;
+        border: 1px #212121 solid
+        }
+
+    #maisTrabalhos{font-size: 15px;}
+
+    /* album */
+
+    /* vantagem */
+
+    #vantagens{margin-left: 7%;
+        margin-right: 0%;
+        margin-top: 5%;
+      }
+        
+        #vantagem1{
+            max-width: 45%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            margin-top: 5%;
+           
+        }
+        
+         #vantagem2{
+                max-width: 45%;
+                display: inline-block;
+                text-align: center;
+            font-size: 13px;
+            position: relative;
+            margin-left: 0px;
+        bottom: 0;
+        margin-top: 5%;
+    }
+        
+         #vantagem3{
+                    max-width: 45%;
+                    display: inline-block;
+                    text-align: center;
+                    font-size: 13px;
+                    position: relative;
+                    bottom: 15px;
+                    margin-left: 0px;
+                margin-top: 5%;}
+            
+         #vantagem4{max-width: 45%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            bottom: 30px;
+            margin-left: 0px;
+        margin-top: 5%;}
+                 
+        #vantagem5{max-width: 45%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            bottom: 35px;
+            margin-left: 0px;
+        margin-top: 5%;
+        }
+        
+            #vantagem6{max-width: 45%;
+                display: inline-block;
+                text-align: center;
+                font-size: 13px;
+                margin-left: 0px;
+                position: relative;
+                bottom: 17px;
+                margin-top: 5%;
+            } 
+
+    /* vantagem */
+
+    /* PLATAFORMA */
+
+    #hotmart{max-width: 100%;}
+        
+        #heroSpark{max-width: 100%;
+        }
+        
+        #monetizze{max-width: 100%;
+        }
+
+        #iconMonetizze{height:40px;}
+
+    /* PLATAFORMA */
+
+ /* modulos */
+
+ .modulos{max-width: 100%;}
+
+ /* modulos */
+
+ /* segunda sessao de textos */
+ #segundaSesssaodeTexto{position: relative;
+    overflow: hidden;
+    background-image: url(./images/segundaSessaoTextos/blasnec_tattoo.png);
+    background-repeat: no-repeat;
+    background-position-y: -450px;
+    background-size: 800px;
+    background-position-x:-300px ;
+    }
+    
+    .imgsSegundaSessaoResponsivo{width: 200px;
+    display: block;
+margin: auto;
+margin-top: -30px;}
+    
+    .conteudoSegundaSessaoTextos{ max-width: 100%;
+    margin-right: 2%;
+    margin-left:2%;
+    float: none;
+    display: inline-block;
+    }
+    
+    
+    .titulosSegundaSessaoTextos{ margin-bottom: 0
+    ;
+    margin-top:-5px;}
+    
+    .textosSegundaSessaoTextos{text-align: left;
+    }
+
+    .imagensEsquerda{display: none;}
+
+     /* segunda sessao de textos */
+
+     /* professor */
+
+     #professor{margin-top: 15%;
+        background-image: url(./images/Blasnec/BlasnecPretoeBrancoEE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    }
+    
+    #conjuntoProfessor{color: rgb(255, 255, 255);
+        background-color: #000000bd;
+        margin-left: 2%;
+        margin-right: 2%;
+        max-width: 100%;
+        padding: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+   
+        }
+    
+    #tituloProfessor{font-size: 30px;
+    margin-bottom: 11%;
+    text-align: center;}
+    
+    #textoSobreProfessor{font-size: 20px;
+    }
+    
+    #fraseProfessor{font-size: 30px;
+    text-align: center;
+    font-style: italic;}
+
+
+.brProfessor{display: none;}
+/* 
+footer */
+
+footer{margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 5%;
+    padding-bottom: 2%;
+    }
+    
+    #logoBlasnec{height: 150px;
+    margin-left: 0%;
+display: block;
+margin: auto;}
+    
+    .listaFooter{display: inline-block;
+    margin-bottom: 6%;
+    margin-left: 18%;
+    font-size: 15px;
+    cursor: pointer;}
+    
+    li:hover{color: white;
+    text-decoration-line: underline;}
+    
+    .segundoItemListaFooter{margin-top: 20px}
+    
+    #email{font-size: 13px;}
+    
+    #email:hover{color: white;
+        text-decoration-line: underline;}
+    
+    .redes{height: 30px;}
+    
+    .conteudoRede:hover{color: white;
+        text-decoration-line: underline;}
+    
+    #whatssApp{margin-left: 20px;}
+    
+    #freepik{position: relative;
+    left: 0;
+    font-size:9px;
+    bottom: 0;
+margin-top: 20px;}
+    
+}
+
+@media screen and (max-width:400px)
+
+/* 
+Inicio da primeira pagina */
+
+{
+
+    #inicio{background-image:url(./images/Tatuagens/raposaPretoeBranco.jpg);
+        background-repeat: no-repeat;
+    background-position:center;
+    background-position-y: -100px;
+     background-position-x:1px ;   }
+    
+
+
+#Blasnec{display: none;}
+
+#menu{font-size: 25px;
+    float: none;
+    margin-top: 6%;
+    margin-right: 11%;
+    }
+
+ .menuItems{display: block;
+        margin-left: 20px;
+        cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+padding: 10px;}
+
+#jornadaTitulo{ text-align: center;
+    margin-left:2% ;
+    margin-top: 20%;
+font-size: 20px;} 
+
+/* 
+Inicio da primeira pagina */
+
+/* icones */
+
+.icons{height: 40px;}
+
+#Vitalidade{margin-left:2% ;
+    margin-right:2%;
+max-width: 100%;
+display:block;
+text-align: center;
+position: none;}
+
+#tempo{
+    margin-left: 2%;
+    margin-right: 2%;
+max-width: 100%;    
+display:block;
+text-align: center;
+position: none;
+bottom: none;
+margin-top: 40px;}
+
+#mulher{display:block;
+text-align: center;
+max-width: 100%;
+position: none;
+bottom: none;
+margin-top: 20px;}
+
+/* <!-- repetição --> */
+
+#Vitalidade1{margin-left: 2%;
+    margin-right: 2%;
+    max-width: 100%;
+    display: block;
+    text-align: center;
+    position: none;
+margin-top:0;
+margin-top: 40px;
+position: relative;
+bottom: 65px;}
+
+#mulher1{display:block;
+    text-align: center;
+    max-width: 100%;
+    position: relative;
+    bottom: 50px;
+margin-left: 2%;
+margin-right: 2%;}
+
+/* icones */
+
+/* botao video */
+
+#botaoVideo{background-color: #212121;
+    display:block;
+    border-radius: 20px;
+    padding: 16px;
+    font-size: 25px;
+    margin-top: 1%;
+    cursor: pointer;
+    position: relative;
+    text-align: center;
+    left: 0;}
+
+    /* botao video */
+/* 
+    primeira sessao */
+
+    #primeiraSessao{position: relative;
+    margin-top: 40px;}
+    
+    #box1{max-width: 100%;
+        display: block;
+        margin-left: 2%;
+    margin-right: 2%;}
+
+    #box2{max-width: 100%;
+        display: block;
+        margin-left:2%;
+        margin: right 2%;
+        position: relative;
+        top:0;
+        margin-top: 20px;
+    
+    }
+    
+    #Box3{margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 20px;
+    max-width: 100%;
+    }
+    
+/* primeira sessao */
+
+/* album */
+
+#linhaAlbum{display: none;}
+
+    #album{margin-top: 50px;
+       margin-left: 0;}
+    
+        .album{width: 48% ;
+        height: 47%;
+        border: 1px #212121 solid
+        }
+
+    #maisTrabalhos{font-size: 15px;}
+
+    /* album */
+
+    /* vantagem */
+
+    #vantagens{margin-left: 7%;
+        margin-right: 0%;
+        margin-top: 5%;
+      }
+        
+        #vantagem1{
+            max-width: 45%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            margin-top: 5%;
+           
+        }
+        
+         #vantagem2{
+                max-width: 45%;
+                display: inline-block;
+                text-align: center;
+            font-size: 13px;
+            position: relative;
+            margin-left: 0px;
+        bottom: 0;
+        margin-top: 5%;
+    }
+        
+         #vantagem3{
+                    max-width: 45%;
+                    display: inline-block;
+                    text-align: center;
+                    font-size: 13px;
+                    position: relative;
+                    bottom: 15px;
+                    margin-left: 0px;
+                margin-top: 5%;}
+            
+         #vantagem4{max-width: 45%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            bottom: 30px;
+            margin-left: 0px;
+        margin-top: 5%;}
+                 
+        #vantagem5{max-width: 45%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            bottom: 35px;
+            margin-left: 0px;
+        margin-top: 5%;
+        }
+        
+            #vantagem6{max-width: 45%;
+                display: inline-block;
+                text-align: center;
+                font-size: 13px;
+                margin-left: 0px;
+                position: relative;
+                bottom: 17px;
+                margin-top: 5%;
+            } 
+
+    /* vantagem */
+
+    /* PLATAFORMA */
+
+    #hotmart{max-width: 100%;}
+        
+        #heroSpark{max-width: 100%;
+        }
+        
+        #monetizze{max-width: 100%;
+        }
+
+        #iconMonetizze{height:40px;}
+
+    /* PLATAFORMA */
+
+ /* modulos */
+
+ .modulos{max-width: 100%;}
+
+ /* modulos */
+
+ /* segunda sessao de textos */
+ #segundaSesssaodeTexto{position: relative;
+    overflow: hidden;
+    background-image: url(./images/segundaSessaoTextos/blasnec_tattoo.png);
+    background-repeat: no-repeat;
+    background-position-y: -450px;
+    background-size: 800px;
+    background-position-x:-300px ;
+    }
+    
+    .imgsSegundaSessaoResponsivo{width: 200px;
+    display: block;
+margin: auto;}
+    
+    .conteudoSegundaSessaoTextos{ max-width: 100%;
+    margin-right: 2%;
+    margin-left:2%;
+    float: none;
+    display: inline-block;
+    }
+    
+    
+    .titulosSegundaSessaoTextos{ margin-bottom: 0
+    ;
+    margin-top:-5px;}
+    
+    .textosSegundaSessaoTextos{text-align: left;
+    }
+
+    .imagensEsquerda{display: none;}
+
+     /* segunda sessao de textos */
+
+     /* professor */
+
+     #professor{margin-top: 15%;
+        background-image: url(./images/Blasnec/BlasnecPretoeBrancoEE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    }
+    
+    #conjuntoProfessor{color: rgb(255, 255, 255);
+        background-color: #000000bd;
+        margin-left: 2%;
+        margin-right: 2%;
+        max-width: 100%;
+        padding: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+   
+        }
+    
+    #tituloProfessor{font-size: 30px;
+    margin-bottom: 11%;
+    text-align: center;}
+    
+    #textoSobreProfessor{font-size: 20px;
+    }
+    
+    #fraseProfessor{font-size: 30px;
+    text-align: center;
+    font-style: italic;}
+
+
+.brProfessor{display: none;}
+/* 
+footer */
+
+footer{margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 5%;
+    padding-bottom: 2%;
+    }
+    
+    #logoBlasnec{height: 150px;
+    margin-left: 0%;
+display: block;
+margin: auto;}
+    
+    .listaFooter{display: inline-block;
+    margin-bottom: 6%;
+    margin-left: 18%;
+    font-size: 15px;
+    cursor: pointer;}
+    
+    li:hover{color: white;
+    text-decoration-line: underline;}
+    
+    .segundoItemListaFooter{margin-top: 20px}
+    
+    #email{font-size: 13px;}
+    
+    #email:hover{color: white;
+        text-decoration-line: underline;}
+    
+    .redes{height: 30px;}
+    
+    .conteudoRede:hover{color: white;
+        text-decoration-line: underline;}
+    
+    #whatssApp{margin-left: 20px;}
+    
+    #freepik{position: relative;
+    left: 0;
+    font-size:9px;
+    bottom: 0;
+margin-top: 20px;}
+    
+}
