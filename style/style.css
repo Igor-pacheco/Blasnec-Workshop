@@ -1,0 +1,1715 @@
+*{padding: 0;
+margin: 0;
+text-decoration: none;
+color: #bfbfbf;
+font-family: 'Open Sans', sans-serif;
+overflow-X: hidden;
+
+}
+
+body{background-color: rgb(0, 0, 0);}
+/* 
+Inicio da primeira pagina */
+
+#inicio{background-image:url(./images/Tatuagens/InkedInkedGaviaoTatto2_LI.jpg);
+    background-position-x:100%;
+    background-repeat: no-repeat;
+
+    }
+
+#Blasnec{height: 250px;
+margin-left: 11%;
+margin-top: 3%;
+display: inline-block;
+border-radius: 1000px;}
+
+#logoBlasnecResponsivo{display: none;}
+
+#menu{font-size: 25px;
+float: right;
+margin-top: 6%;
+margin-right: 11%;
+padding-right: 2%;
+text-align: center;
+background-color: rgba(0, 0, 0, 0.678);
+
+}
+
+.menuItems{display: inline-block;
+margin-left: 20px;
+cursor: pointer;
+padding: 1px;
+
+
+
+color: #ffffff4d;
+text-shadow: 0 0 15px rgba(255, 255, 255, 0.502), 0 0 10px rgba(255,255,255,.5);
+
+}
+
+.menuItems:hover{color: #ffffff;
+    text-decoration-line: underline ;}
+
+#jornadaTitulo{
+    margin-left:11% ;
+    margin-top: 3%;
+font-size: 30px;
+display: inline-block;
+
+background-color: rgba(0, 0, 0, 0.274);
+color: #ffffff4d;
+text-shadow: 0 0 15px rgba(255, 255, 255, 0.502), 0 0 10px rgba(255,255,255,.5);
+padding: 20px;
+
+   
+  
+    
+
+}
+
+/* 
+Inicio da primeira pagina */
+
+    /* icones */
+.icons{height: 60px;}
+
+.beneficiosInicio{font-size: 20px;}
+
+#cargaHoraria{margin-left:11% ;
+max-width: 15%;
+display: inline-block;
+position: relative;}
+
+#numerodeModulos{
+max-width: 14%;    
+display:inline-block;
+position: relative;
+}
+
+#videos{display: inline-block;
+max-width: 15%;
+position: relative;
+margin-left: 12px;
+}
+
+
+#empreendedorismo{margin-left:11% ;
+    max-width: 15%;
+    display: inline-block;
+    position: relative;
+}
+
+#certificado{display: inline-block;
+    max-width: 15%;
+    position: relative;
+
+}
+
+#online{display: inline-block;
+        max-width: 15%;
+        position: relative;
+  
+      }
+
+#videoChamada{margin-left: 11%;}
+
+.botaoComprar{background-color: #ff0000;
+    display:inline-block;
+    border-radius: 20px;
+    padding: 16px;
+    font-size: 50px;
+    cursor: pointer;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(255, 255, 255);
+margin-left: 11%;
+width: 560px;
+text-align: center;}
+
+/* icones */
+
+
+
+/* Final da primeira pagina */
+/* 
+primeira sessao de textos */
+#primeiraSessao{position: relative;
+    overflow: hidden;
+}
+
+#box1{max-width: 40%;
+    display: inline-block;
+    margin-left: 11%;
+    margin-top:5%;
+
+}
+
+
+   #box2{max-width: 40%;
+float: right;
+margin-right: 5%;
+margin-top: 5%;
+
+
+
+
+}
+
+#Box3{margin-left: 11%;
+max-width: 40%;
+text-align: left;
+}
+
+#tituloTexto1{font-size: 40px;}
+
+#texto1{font-size: 18px;}
+
+#tituloTexto2 {font-size: 40px}
+
+#texto2{font-size:18px;}
+
+#tituloTexto3{font-size: 40px}
+
+#texto3{font-size:18px;}
+
+#primeiraSessaoImagem{width:75%;
+margin-left: 5%;
+}
+
+/* final da primeira sessao de textos */
+
+/* album de tatuagens */
+
+#album{margin-top: 50px;
+text-align: center;}
+
+.album{width: 20%;
+height: 20%;
+border: 1px #212121 solid
+}
+
+/* fim do album */
+
+/* vantagens */
+
+.iconsTemp{height: 40px;
+}
+
+
+
+#vantagens{margin-left: 15%;
+margin-right: 9%;
+margin-top: 1%;
+}
+
+#vantagem1{
+    max-width: 14%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+   
+}
+
+ #vantagem2{
+        max-width: 14%;
+        display: inline-block;
+        text-align: center;
+    font-size: 13px;
+    position: relative;
+    margin-left: 10px;}
+
+ #vantagem3{
+            max-width: 14%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            bottom: 15px;
+            margin-left: 10px;}
+    
+ #vantagem4{max-width: 14%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 30px;
+    margin-left: 10px;}
+         
+#vantagem5{max-width: 14%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 15px;
+    margin-left: 10px;
+
+}
+
+    #vantagem6{max-width: 14%;
+        display: inline-block;
+        text-align: center;
+        font-size: 13px;
+        margin-left: 20px;
+        position: relative;
+        bottom: 17px;
+    } 
+
+  
+
+
+      /* PREÇO */
+
+      
+
+
+#preco{width: 50%;
+margin:auto;
+margin-top: 20px;
+/* padding:20px; */
+}
+
+#listaPreco{
+    list-style: circle;
+    list-style-position: inside; 
+    list-style-image: url(./images/montagemSite/verifica.png);
+}
+
+.itemListaPreco{font-size: 30px;
+margin-top: 10px;}
+
+.precovalor{font-size: 70px;
+text-align: center;}
+
+#precoAntigo{text-decoration: red;
+     text-decoration-line:line-through;
+
+}
+
+#novoPrecoVerde{color: green;}
+
+.ouatePreco{font-size: 25px;
+text-align: center;}
+
+.botaoComprar{
+    display:inline-block;
+    border-radius: 20px;
+    padding: 16px;
+    font-size: 50px;
+    cursor: pointer;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(255, 255, 255);
+   }
+
+
+
+.botaoComprar:hover{font-size: 100px;}
+
+
+/* FIM PLATAFORMAS */
+
+/* modulos */
+#modulos{margin-left: 11%;
+margin-right: 11%;}
+
+#tituloModulos{font-size: 35px;
+margin-top: 2%;}
+
+.nomeModulo{margin-top: 7%;
+text-transform: uppercase;
+margin-bottom: 1%;}
+
+.modulos{max-width: 25%;
+display: inline-block;
+margin-left: 5%;}
+
+/* modulos */
+
+/* Linha */
+.linhaLocation{position: relative;
+left: 37%;}
+
+#linha{width: 25%;}
+/* Linha */
+
+/* segundasessaotexto */
+
+#segundaSesssaodeTexto{position: relative;
+overflow: hidden;
+background-image: url(./images/segundaSessaoTextos/blasnec_tattoo.png);
+background-repeat: no-repeat;
+background-size: 55%;
+}
+
+.imgsSegundaSessaoResponsivo{width: 200px;
+display: none;}
+
+.conteudoSegundaSessaoTextos{ max-width: 40%;
+margin-right: 11%;
+float: right;
+}
+
+
+.titulosSegundaSessaoTextos{ margin-bottom: 1%;
+margin-top: 4%;}
+
+.textosSegundaSessaoTextos{text-align: left;
+}
+
+#segundasessaobotao{float: right;
+margin-right: 12%;
+margin-top: 20px;}
+
+/* segundasessaotexto */
+
+/* segundasessaotexto imagens*/ 
+
+/* .imagensEsquerda{position: absolute;
+width: 35%;
+margin-left: 10%;
+bottom: 40%;
+
+} */
+
+
+
+
+
+/* imagens */
+
+/* PROFESSOR */
+
+#professor{margin-top: 15%;
+    background-image: url(./images/Blasnec/BlasnecPretoeBrancoEE.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#conjuntoProfessor{color: rgb(255, 255, 255);
+    background-color: #000000bd;
+    margin-left: 11%;
+    max-width: 65%;
+    padding: 10px;
+    padding-top: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+
+    }
+
+#tituloProfessor{font-size: 50px;
+margin-bottom: 11%;
+text-align: center;}
+
+#textoSobreProfessor{font-size: 20px;
+}
+
+#fraseProfessor{font-size: 40px;
+text-align: center;
+font-style: italic;}
+
+/* PROFESSOR */
+
+
+/*FOTTER */
+
+footer{margin-left: 11%;
+margin-top: 3%;
+padding-bottom: 2%;
+}
+
+#logoBlasnec{height: 150px;
+margin-left: 5%;}
+
+.listaFooter{display: inline-block;
+margin-bottom: 6%;
+margin-left: 5%;
+font-size: 15px;
+cursor: pointer;}
+
+li:hover{color: white;
+text-decoration-line: underline;}
+
+.segundoItemListaFooter{margin-top: 20px}
+
+#email{font-size: 13px;}
+
+#email:hover{color: white;
+    text-decoration-line: underline;}
+
+.redes{height: 30px;}
+
+.conteudoRede:hover{color: white;
+    text-decoration-line: underline;}
+
+#whatssApp{margin-left: 20px;}
+
+#freepik{position: relative;
+left: 1000px;
+font-size:9px;
+bottom: 20px;}
+
+/*FOTTER */
+
+/* RESPONSIVIDADE*/
+
+@media screen and (max-width:1200px)
+
+{
+
+    /* inicio */
+    #menu{font-size: 1em;
+        background-color: rgba(0, 0, 0, 0.856);}
+
+        #jornadaTitulo{
+            margin-left:11% ;
+            margin-top: 3%;
+        font-size: 30px;
+        display: inline-block;
+        
+       
+        background-color: rgba(0, 0, 0, 0.856);}
+        /* inicio */
+
+
+        /* preco */
+
+       #botaoComprarPromocao{width:50% ;
+    margin-left:25%;
+margin-top:5px;}
+
+
+    
+    
+    .imgsSegundaSessaoResponsivo{width: 200px;
+    display: none;}
+    
+    .conteudoSegundaSessaoTextos{ max-width: 40%;
+    margin-right: 11%;
+    float: right;
+    }
+    
+
+
+    
+    .titulosSegundaSessaoTextos{ margin-bottom: 1%;
+    margin-top: 4%;}
+    
+    .textosSegundaSessaoTextos{text-align: left;
+    }
+    
+    /* segundasessaotexto */
+    
+    /* segundasessaotexto imagens*/ 
+    
+    .imagensEsquerda{position: absolute;
+    width: 35%;
+    margin-left: 10%;
+    bottom: 30%;
+    
+    }
+    
+    #universo{bottom: 0%;}
+
+    footer{margin-left: 11%;
+        margin-top: 0%;
+        padding-bottom: 2%;
+        margin-top: 5%;
+    }
+
+      
+
+        
+
+         
+    #freepik{position: relative;
+        left: 0;
+        font-size:9px;
+        bottom: 0;
+    margin-top: 20px;}
+        
+
+
+}
+
+
+
+@media screen and (max-width:900px)
+
+
+
+{ 
+    #inicio{background-image:url(./images/Tatuagens/InkedInkedGaviaoTatto2_LI.jpg);
+    background-position-x:100%;
+    background-repeat: no-repeat;
+
+    }
+
+br{display: none;}
+
+#Blasnec{height: 200px;
+margin-left: 5%;}
+
+#menu{font-size: 20px;
+float: right;
+margin-top: 6%;
+margin-right: 5%;
+margin-left: 0px;
+background-color: #080808d2;
+padding-right: 0px;
+width: 30%;
+padding-left:0px;
+text-align: left;
+}
+
+.menuItems{display: block;
+margin-left: 0;
+margin-right: 0;
+cursor: pointer;
+padding: 10px;}
+
+.menuItems:hover{color: #ffffff;
+    text-decoration-line: underline ;}
+
+#jornadaTitulo{
+    margin-left:10% ;
+    margin-right: 10%;
+    margin-top: 70%;
+font-size: 40px;
+}
+
+/* icones */
+.icons{height: 60px;}
+
+#cargaHoraria{margin-left:auto ;
+    margin-right:auto;
+max-width: 100%;
+display: block;
+text-align: center;
+position: none;}
+
+#numerodeModulos{
+    margin-left:auto ;
+    margin-right:auto;
+max-width: 100%;
+display: block;
+text-align: center;
+position: none;}
+
+#videos{margin-left:auto ;
+    margin-right:auto;
+max-width: 100%;
+display: block;
+text-align: center;
+position: none;}
+
+#empreendedorismo{display:block;
+    text-align: center;
+    max-width: 100%;
+    position: none;
+    bottom: none;
+    margin-top: 0px;
+    margin-left: 2%;
+    margin-right: 2%;}
+
+#certificado{margin-left:auto ;
+    margin-right:auto;
+max-width: 100%;
+display: block;
+text-align: center;
+position: none;}
+
+#online{margin-left:auto ;
+    margin-right:auto;
+max-width: 100%;
+display: block;
+text-align: center;
+position: none;}
+
+#videoChamada{margin-left:0;
+width: 100%;}
+
+.botaoComprar{background-color: #ff0000;
+    display:inline-block;
+    border-radius: 20px;
+    padding: 16px;
+    font-size: 50px;
+    cursor: pointer;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(255, 255, 255);
+margin-left:0;
+width: 95%;
+text-align: center;}
+
+
+
+       /* primeira sessao de textos */
+#primeiraSessao{position: relative;
+}
+
+#box1{max-width: 80%;
+    display: block;
+    margin-left: 10%;
+margin-bottom: 0;
+text-align: left;}
+
+#box2{max-width: 80%;
+    display: block;
+    margin-left: 10%;
+    margin-right: 0;
+    float: none;
+margin-bottom: 0;
+text-align: left;
+
+}
+
+#Box3{max-width: 80%;
+    display: block;
+    margin-left: 10%;
+margin-bottom: 0;
+text-align: left;
+margin-top: 5%;
+margin-bottom: 5%;}
+
+
+#primeiraSessaoImagem{display: none;}
+
+    /* album de tatuagens */
+
+#album{margin-top: 0px;
+    margin-left: 0;}
+    
+    .album{width: 47%;
+    height: 47%;
+    border: 1px #212121 solid
+    }
+
+#linhaAlbum{display: none;}
+
+.iconsTemp{height: 40px;
+}
+
+
+
+#vantagens{margin-left: 10%;
+margin-right: 10%;
+margin-top: 1%;
+}
+
+#vantagem1{
+    max-width: 30%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    
+   
+}
+
+ #vantagem2{
+        max-width: 30%;
+        display: inline-block;
+        text-align: center;
+    font-size: 13px;
+    position: relative;
+    margin-left: 5px;
+  
+}
+
+ #vantagem3{
+            max-width: 30%;
+            display: inline-block;
+            text-align: center;
+            font-size: 13px;
+            position: relative;
+            bottom: 15px;
+            margin-left: 5px;
+          
+        }
+    
+ #vantagem4{max-width: 30%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 30px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+         
+#vantagem5{max-width: 30%;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 15px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+    #vantagem6{max-width: 30%;
+        display: inline-block;
+        text-align: center;
+        font-size: 13px;
+        margin-left: 5px;
+        position: relative;
+        bottom: 17px;
+        margin-top: 20px;
+    } 
+
+    /* preço */
+    
+    #preco{width: 100%; }
+        
+        #listaPreco{ margin-left: 2%; }
+
+
+        /*  modulos */
+        
+        #modulos{margin-left: 0%;
+            margin-right: 0%;}
+            
+            #tituloModulos{font-size: 35px;
+            margin-top: 2%;}
+            
+            .nomeModulo{margin-top: 7%;
+            text-transform: uppercase;
+            margin-bottom: 1%;}
+            
+            .modulos{max-width: 80%;
+            display: inline-block;
+            margin-left: 10%;
+        }
+        
+        /* segundasessaotexto */
+
+#segundaSesssaodeTexto{position: relative;
+    overflow: hidden;
+    background-image:none;
+    background:none;
+    }
+    
+    .imgsSegundaSessaoResponsivo{width: 200px;
+    display: none;}
+    
+    .conteudoSegundaSessaoTextos{ max-width: 80%;
+    margin-right: 0%;
+    margin-left:10%;
+    float: none;
+    text-align: center;
+    }
+    
+    
+    .titulosSegundaSessaoTextos{ margin-bottom: 1%;
+    margin-top: 4%;}
+    
+    .textosSegundaSessaoTextos{text-align: center;}
+    
+    #primeiroTextoSegundaSessao{  background-image: url(./images/segundaSessaoTextos/blasnec_tattoo.png);
+    background-repeat: no-repeat;
+background-size: cover;
+padding-bottom: 40px;}
+    
+    
+    /* segundasessaotexto */
+    
+    /* segundasessaotexto imagens*/ 
+    
+    .imagensEsquerda{display: none;
+    }
+    
+    .imgsSegundaSessaoResponsivo{display: block;
+    margin: auto;}
+
+    #segundasessaobotao{float: none;
+    margin-left: 7%;
+    margin-right: 0%;
+width: 80%;}
+  
+
+    /* professor */
+
+    #professor{margin-top: 15%;
+        background-image: url(./images/Blasnec/BlasnecPretoeBrancoEE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    }
+    
+    #conjuntoProfessor{color: rgb(255, 255, 255);
+        background-color: #000000bd;
+        margin-left: 2%;
+        margin-right: 2%;
+        max-width: 100%;
+        padding: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+   
+        }
+    
+    #tituloProfessor{font-size: 30px;
+    margin-bottom: 11%;
+    text-align: center;}
+    
+    #textoSobreProfessor{font-size: 20px;
+    }
+    
+    #fraseProfessor{font-size: 30px;
+    text-align: center;
+    font-style: italic;}
+
+
+.brProfessor{display: none;}
+    
+#freepik{position: relative;
+    left: 0;
+    font-size:9px;
+    bottom: 0;
+margin-top: 20px;}
+
+#brFooter{display: block;}
+    
+
+}
+
+
+
+
+@media screen and (max-width:500px)
+
+{
+/* 
+Inicio da primeira pagina */
+
+
+
+    #inicio{background-image:none
+}
+    
+#logoBlasnecResponsivo{display: inline-block;
+    float: right;
+width: 50%;
+margin-top:6% ;
+margin-right: 2%;}
+
+#Blasnec{display: none;}
+
+#menu{font-size: 25px;
+    float: none;
+    margin-top: 6%;
+    margin-right: 0%;
+    padding-right: 5%;
+    }
+
+ .menuItems{display: block;
+        margin-left: 20px;
+        cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+padding: 10px;}
+
+#jornadaTitulo{ text-align: center;
+    margin-left:2% ;
+    margin-top: 5%;
+font-size: 20px;} 
+
+/* 
+Inicio da primeira pagina */
+
+/* icones */
+
+.icons{height: 40px;}
+
+#cargaHoraria{margin-left:2% ;
+    margin-right:2%;
+max-width: 100%;
+display:block;
+text-align: center;
+position: none;}
+
+#numerodeModulos{
+    margin-left: 2%;
+    margin-right: 2%;
+max-width: 100%;    
+display:block;
+text-align: center;
+position: none;
+bottom: none;
+margin-top: 20px;}
+
+#videos{display:block;
+text-align: center;
+max-width: 100%;
+position: none;
+bottom: none;
+margin-top: 20px;
+margin-left: 2%;
+margin-right: 2%;}
+
+#empreendedorismo{display:block;
+    text-align: center;
+    max-width: 100%;
+    position: none;
+    bottom: none;
+    margin-top: 0px;
+    margin-left: 2%;
+    margin-right: 2%;}
+
+#certificado{display:block;
+    text-align: center;
+    max-width: 100%;
+    position: none;
+    bottom: none;
+    margin-top: 20px;
+    margin-left: 2%;
+    margin-right: 2%;}
+
+#online{display:block;
+    text-align: center;
+    max-width: 100%;
+    position: none;
+    bottom: none;
+    margin-top: 20px;
+    margin-left: 2%;
+    margin-right: 2%;}
+
+/* icones */
+
+/*video */
+
+#videoChamada{margin: 0;
+width: 100%;}
+
+#botaoComprarInicio{background-color: #ff0000;
+    display:inline-block;
+    border-radius: 20px;
+    padding: 14px;
+    font-size: 45px;
+    cursor: pointer;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(255, 255, 255);
+margin: 1%;
+width: 90%;
+text-align: center;}
+
+
+    /*video */
+/* 
+    primeira sessao */
+
+    #primeiraSessao{position: relative;
+    margin-top: 40px;}
+    
+    #box1{max-width: 100%;
+        display: inline-block;
+        margin-left: 2%;
+    margin-right: 2%;
+margin-top: 10px;
+margin-bottom: 0px;}
+
+    #box2{max-width: 100%;
+        display: inline-block;
+        margin-left:2%;
+        margin: right 2%;
+        position: relative;
+        top:0;
+        margin-top: 10px;}
+    
+    #Box3{margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 1px;
+    max-width: 100%;
+    display: inline-block;
+    margin-bottom: 20px;
+    }
+
+    #primeiraSessaoImagem{display: none;}
+    
+/* primeira sessao */
+
+/* album */
+
+
+    #album{margin-top: 0px;
+       margin-left: 0;}
+    
+        .album{width: 48% ;
+        height: 47%;
+        border: 1px #212121 solid
+        }
+
+    #maisTrabalhos{font-size: 15px;}
+
+    /* album */
+
+    /* vantagem */
+
+    #vantagens{margin-left: 7%;
+        margin-right: 0%;
+        margin-top: 5%;
+      }
+        
+        #vantagem1{
+            max-width: 45%;
+            display: inline-block;
+            text-align: left;
+            font-size: 13px;
+            position: relative;
+            margin-top: 5%;
+            margin-bottom: 5%
+           
+        }
+        
+         #vantagem2{
+                max-width: 45%;
+                display: inline-block;
+                text-align: left;
+            font-size: 13px;
+            position: relative;
+            margin-left: 0px;
+        bottom: 0;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+        
+         #vantagem3{
+                    max-width: 45%;
+                    display: inline-block;
+                    text-align: left;
+                    font-size: 13px;
+                    position: relative;
+                    bottom: 15px;
+                    margin-left: 0px;
+                margin-top: 5%;
+                margin-bottom: 5%}
+            
+         #vantagem4{max-width: 45%;
+            display: inline-block;
+            text-align: left;
+            font-size: 13px;
+            position: relative;
+            bottom: 30px;
+            margin-left: 0px;
+        margin-top: 5%;
+        margin-bottom: 5%}
+                 
+        #vantagem5{max-width: 45%;
+            display: inline-block;
+            text-align: left;
+            font-size: 13px;
+            position: relative;
+            bottom: 35px;
+            margin-left: 0px;
+        margin-top: 5%;
+        margin-bottom: 5%
+        }
+        
+            #vantagem6{max-width: 45%;
+                display: inline-block;
+                text-align: left;
+                font-size: 13px;
+                margin-left: 0px;
+                position: relative;
+                bottom: 17px;
+                margin-top: 5%;
+                margin-bottom: 5%
+            } 
+
+    /* vantagem */
+
+    /*preco */
+
+    #preco{width: 100%;
+        margin:none;
+        margin-top: 0px;
+        padding:0px;}
+        
+        #listaPreco{
+            list-style: circle;
+            list-style-position: inside; 
+            list-style-image: url(./images/montagemSite/verificaResponsivo.png);
+        padding: 20px;
+        }
+        
+        .itemListaPreco{font-size: 25px;
+        margin-top: 10px;}
+        
+        .precovalor{margin-top: 5px;
+            font-size: 30px;
+            text-align: center;
+ }
+        
+
+
+        #precoAntigo{ text-decoration-line:line-through;
+        text-align: center;
+        }
+        
+        .ouatePreco{font-size: 20px;
+        text-align: center;}
+
+       #botaoComprarPromocao{display:block;
+        border-radius: 20px;
+        padding: 16px;
+        font-size: 30px;
+        cursor: pointer;
+        font-family: 'Bebas Neue', cursive;
+        color: rgb(255, 255, 255);
+         width: 80%;
+        margin: auto;
+    text-align: center;
+margin-top: 10px;}
+
+    /* preco */
+
+ /* modulos */
+
+ .modulos{max-width: 100%;}
+
+ /* modulos */
+
+ /* segunda sessao de textos */
+ #segundaSesssaodeTexto{position: relative;
+    overflow: hidden;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: 55%;}
+
+    #primeiroTextoSegundaSessao{background-image: url(./images/segundaSessaoTextos/blasnec_tattoo.png);
+    background-size: cover;
+background-position:right;
+background-repeat: no-repeat;}
+    
+    .imgsSegundaSessaoResponsivo{width: 250px;
+    display: block;
+margin: auto;
+}
+    
+    .conteudoSegundaSessaoTextos{ max-width: 100%;
+    margin-right: 2%;
+    margin-left:2%;
+    float: none;
+    display: inline-block;
+    margin-top: 10px;
+    }
+    
+    
+    .titulosSegundaSessaoTextos{ margin-bottom: 0
+    ;
+    margin-top:-5px;}
+    
+    .textosSegundaSessaoTextos{text-align: left;
+    }
+
+    .imagensEsquerda{display: none;}
+
+    #segundasessaobotao{width: 90%;
+    margin: auto;
+margin-top: 20px;
+font-size: 40px;
+}
+
+     /* segunda sessao de textos */
+
+     /* professor */
+
+     #professor{margin-top: 15%;
+        background-image: url(./images/Blasnec/BlasnecPretoeBrancoEE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    }
+    
+    #conjuntoProfessor{color: rgb(255, 255, 255);
+        background-color: #000000cb;
+        margin-left: 2%;
+        margin-right: 2%;
+        max-width: 100%;
+        padding: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+   
+        }
+    
+    #tituloProfessor{font-size: 30px;
+    margin-bottom: 11%;
+    text-align: center;}
+    
+    #textoSobreProfessor{font-size: 10px;
+    }
+    
+    #fraseProfessor{font-size: 30px;
+    text-align: center;
+    font-style: italic;}
+
+
+.brProfessor{display: none;}
+/* 
+footer */
+
+footer{margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 5%;
+    padding-bottom: 2%;
+    }
+    
+    #logoBlasnec{height: 150px;
+    margin-left: 0%;
+display: block;
+margin: auto;}
+    
+    .listaFooter{display: inline-block;
+    margin-bottom: 6%;
+    margin-left: 18%;
+    font-size: 15px;
+    cursor: pointer;}
+    
+    li:hover{color: white;
+    text-decoration-line: underline;}
+    
+    .segundoItemListaFooter{margin-top: 20px}
+    
+    #email{font-size: 13px;}
+    
+    #email:hover{color: white;
+        text-decoration-line: underline;}
+    
+    .redes{height: 30px;}
+    
+    .conteudoRede:hover{color: white;
+        text-decoration-line: underline;}
+    
+    #whatssApp{margin-left: 20px;}
+    
+    #freepik{position: relative;
+    left: 0;
+    font-size:9px;
+    bottom: 0;
+margin-top: 20px;}
+
+#brFooter{display: block;}
+    
+}
+
+
+
+
+@media screen and (max-width:400px)
+
+/* 
+Inicio da primeira pagina */
+
+{
+
+    #inicio{background-image:none
+    }
+        
+    #logoBlasnecResponsivo{display: inline-block;
+        float: right;
+    width: 50%;
+    margin-top:6% ;
+    margin-right: 2%;}
+
+#Blasnec{display: none;}
+
+#menu{font-size: 25px;
+    float: none;
+    margin-top: 6%;
+    margin-right: 0%;
+    padding-right: 5%;
+    }
+
+ .menuItems{display: block;
+        margin-left: 20px;
+        cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+padding: 10px;}
+
+#jornadaTitulo{ text-align: center;
+    margin-left:2% ;
+    margin-top: 20%;
+font-size: 20px;} 
+
+/* 
+Inicio da primeira pagina */
+
+/* icones */
+
+.icons{height: 40px;}
+
+#cargaHoraria{margin-left:2% ;
+    margin-right:2%;
+max-width: 100%;
+display:block;
+text-align: center;
+position: none;}
+
+#numerodeModulos{
+    margin-left: 2%;
+    margin-right: 2%;
+max-width: 100%;    
+display:block;
+text-align: center;
+position: none;
+bottom: none;
+margin-top: 20px;}
+
+#videos{display:block;
+text-align: center;
+max-width: 100%;
+position: none;
+bottom: none;
+margin-top: 20px;
+margin-left: 2%;
+margin-right: 2%;}
+
+#empreendedorismo{display:block;
+    text-align: center;
+    max-width: 100%;
+    position: none;
+    bottom: none;
+    margin-top: 0px;
+    margin-left: 2%;
+    margin-right: 2%;}
+
+#certificado{display:block;
+    text-align: center;
+    max-width: 100%;
+    position: none;
+    bottom: none;
+    margin-top: 20px;
+    margin-left: 2%;
+    margin-right: 2%;}
+
+#online{display:block;
+    text-align: center;
+    max-width: 100%;
+    position: none;
+    bottom: none;
+    margin-top: 20px;
+    margin-left: 2%;
+    margin-right: 2%;}
+
+/* icones */
+
+/*video */
+
+#videoChamada{margin: 0;
+width: 100%;}
+
+#botaoComprarInicio{background-color: #ff0000;
+    display:inline-block;
+    border-radius: 20px;
+    padding: 14px;
+    font-size: 45px;
+    cursor: pointer;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(255, 255, 255);
+margin: 1%;
+width: 90%;
+text-align: center;}
+
+
+    /*video */
+/* 
+    primeira sessao */
+
+    #primeiraSessao{position: relative;
+    margin-top: 40px;}
+    
+    #box1{max-width: 100%;
+        display: inline-block;
+        margin-left: 2%;
+    margin-right: 2%;
+margin-top: 10px;
+margin-bottom: 0px;}
+
+    #box2{max-width: 100%;
+        display: inline-block;
+        margin-left:2%;
+        margin: right 2%;
+        position: relative;
+        top:0;
+        margin-top: 10px;}
+    
+    #Box3{margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 1px;
+    max-width: 100%;
+    display: inline-block;
+    margin-bottom: 20px;
+    }
+
+    #primeiraSessaoImagem{display: none;}
+    
+/* primeira sessao */
+
+/* album */
+
+
+    #album{margin-top: 0px;
+       margin-left: 0;}
+    
+        .album{width: 48% ;
+        height: 47%;
+        border: 1px #212121 solid
+        }
+
+    #maisTrabalhos{font-size: 15px;}
+
+    /* album */
+
+    /* vantagem */
+
+    #vantagens{margin-left: 7%;
+        margin-right: 0%;
+        margin-top: 5%;
+      }
+        
+        #vantagem1{
+            max-width: 45%;
+            display: inline-block;
+            text-align: left;
+            font-size: 13px;
+            position: relative;
+            margin-top: 5%;
+            margin-bottom: 5%
+           
+        }
+        
+         #vantagem2{
+                max-width: 45%;
+                display: inline-block;
+                text-align: left;
+            font-size: 13px;
+            position: relative;
+            margin-left: 0px;
+        bottom: 0;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+        
+         #vantagem3{
+                    max-width: 45%;
+                    display: inline-block;
+                    text-align: left;
+                    font-size: 13px;
+                    position: relative;
+                    bottom: 15px;
+                    margin-left: 0px;
+                margin-top: 5%;
+                margin-bottom: 5%}
+            
+         #vantagem4{max-width: 45%;
+            display: inline-block;
+            text-align: left;
+            font-size: 13px;
+            position: relative;
+            bottom: 30px;
+            margin-left: 0px;
+        margin-top: 5%;
+        margin-bottom: 5%}
+                 
+        #vantagem5{max-width: 45%;
+            display: inline-block;
+            text-align: left;
+            font-size: 13px;
+            position: relative;
+            bottom: 35px;
+            margin-left: 0px;
+        margin-top: 5%;
+        margin-bottom: 5%
+        }
+        
+            #vantagem6{max-width: 45%;
+                display: inline-block;
+                text-align: left;
+                font-size: 13px;
+                margin-left: 0px;
+                position: relative;
+                bottom: 17px;
+                margin-top: 5%;
+                margin-bottom: 5%
+            } 
+
+    /* vantagem */
+
+    /*preco */
+
+    #preco{width: 100%;
+        margin:none;
+        margin-top: 0px;
+        padding:0px;}
+        
+        #listaPreco{
+            list-style: circle;
+            list-style-position: inside; 
+            list-style-image: url(./images/montagemSite/verificaResponsivo.png);
+        padding: 20px;
+        }
+        
+        .itemListaPreco{font-size: 24px;
+        margin-top: 10px;}
+        
+        .precovalor{margin-top: 5px;
+            font-size: 30px;
+            text-align: center;
+ }
+        
+
+
+        #precoAntigo{ text-decoration-line:line-through;
+        text-align: center;
+        }
+        
+        .ouatePreco{font-size: 20px;
+        text-align: center;}
+
+       #botaoComprarPromocao{display:block;
+        border-radius: 20px;
+        padding: 16px;
+        font-size: 30px;
+        cursor: pointer;
+        font-family: 'Bebas Neue', cursive;
+        color: rgb(255, 255, 255);
+         width: 80%;
+        margin: auto;
+    text-align: center;
+margin-top: 10px;}
+
+    /* preco */
+
+ /* modulos */
+
+ .modulos{max-width: 100%;}
+
+ /* modulos */
+
+ /* segunda sessao de textos */
+ #segundaSesssaodeTexto{position: relative;
+    overflow: hidden;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: 55%;}
+
+    #primeiroTextoSegundaSessao{background-image: url(./images/segundaSessaoTextos/blasnec_tattoo.png);
+    background-size: cover;
+background-position: right;
+background-repeat: no-repeat;}
+    
+    .imgsSegundaSessaoResponsivo{width: 250px;
+    display: block;
+margin: auto;
+}
+    
+    .conteudoSegundaSessaoTextos{ max-width: 100%;
+    margin-right: 2%;
+    margin-left:2%;
+    float: none;
+    display: inline-block;
+    margin-top: 10px;
+    }
+    
+    
+    .titulosSegundaSessaoTextos{ margin-bottom: 0
+    ;
+    margin-top:-5px;}
+    
+    .textosSegundaSessaoTextos{text-align: left;
+    }
+
+    .imagensEsquerda{display: none;}
+
+    #segundasessaobotao{width: 90%;
+    margin: auto;
+margin-top: 20px;
+font-size: 40px;
+}
+
+     /* segunda sessao de textos */
+
+     /* professor */
+
+     #professor{margin-top: 15%;
+        background-image: url(./images/Blasnec/BlasnecPretoeBrancoEE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    }
+    
+    #conjuntoProfessor{color: rgb(255, 255, 255);
+        background-color: #000000cb;
+        margin-left: 2%;
+        margin-right: 2%;
+        max-width: 100%;
+        padding: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+   
+        }
+    
+    #tituloProfessor{font-size: 30px;
+    margin-bottom: 11%;
+    text-align: center;}
+    
+    #textoSobreProfessor{font-size: 10px;
+    }
+    
+    #fraseProfessor{font-size: 30px;
+    text-align: center;
+    font-style: italic;}
+
+
+.brProfessor{display: none;}
+/* 
+footer */
+
+footer{margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 5%;
+    padding-bottom: 2%;
+    }
+    
+    #logoBlasnec{height: 150px;
+    margin-left: 0%;
+display: block;
+margin: auto;}
+    
+    .listaFooter{display: inline-block;
+    margin-bottom: 6%;
+    margin-left: 18%;
+    font-size: 15px;
+    cursor: pointer;}
+    
+    li:hover{color: white;
+    text-decoration-line: underline;}
+    
+    .segundoItemListaFooter{margin-top: 20px}
+    
+    #email{font-size: 13px;}
+    
+    #email:hover{color: white;
+        text-decoration-line: underline;}
+    
+    .redes{height: 30px;}
+    
+    .conteudoRede:hover{color: white;
+        text-decoration-line: underline;}
+    
+    #whatssApp{margin-left: 20px;}
+    
+    #freepik{position: relative;
+    left: 0;
+    font-size:9px;
+    bottom: 0;
+margin-top: 20px;}
+
+#brFooter{display: block;}
+    
+}
